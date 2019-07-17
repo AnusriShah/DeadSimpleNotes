@@ -1,0 +1,14 @@
+#Test File
+!world
+/you
+*
+are
+a
+duck
+no
+*
+-
+u
+askdfjklasjflksdj
+asdfkja;skldfjads
+;askljfl;ksajkfds
